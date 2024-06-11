@@ -1,4 +1,4 @@
-// function( a piece of code which run own way)
+//let/ function( a piece of code which run own way)
 
 // function greet () {
 //     console.log("hello student");
